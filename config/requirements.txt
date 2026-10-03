@@ -1,0 +1,13 @@
+# CardioIA, Fase 2, Ir Alem 2: versoes usadas na execucao do notebook (Python 3.11)
+# Em Linux ou Windows sem GPU, "tensorflow-cpu==2.20.0" e um substituto mais leve de "tensorflow".
+tensorflow==2.20.0
+keras==3.15.1
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+matplotlib==3.10.9
+pillow==12.2.0
+ipykernel==7.3.0
+nbformat==5.11.1
+nbclient==0.11.0
+notebook==7.6.3

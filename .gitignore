@@ -1,0 +1,16 @@
+# Dataset externo (nao versionado; ver README e data/LEIAME.md para o download).
+# Observacao: o .gitignore do modelo FIAP exclui *.csv; aqui a regra fica restrita a data/,
+# porque nenhum outro CSV faz parte do repositorio.
+data/*.csv
+data/*.zip
+
+# Python e Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
