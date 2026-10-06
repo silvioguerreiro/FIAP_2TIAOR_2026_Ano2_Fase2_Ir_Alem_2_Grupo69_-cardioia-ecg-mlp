@@ -21,7 +21,7 @@
 
 ## 🎥 Vídeo de demonstração
 
-**Link (YouTube, não listado, até 4 minutos):** [A INSERIR APÓS A PUBLICAÇÃO]
+**Link (YouTube, não listado, até 4 minutos):** https://youtu.be/danpWzwciFI
 
 ## 📜 Descrição
 
